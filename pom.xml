@@ -45,7 +45,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.MainClass</mainClass>
+                            <mainClass>Main.MainClass</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
